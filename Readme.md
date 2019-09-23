@@ -1,6 +1,6 @@
 # Remote work
 
-Ideas & things to consider when starting working remotely
+## Ideas & things to consider when starting working remotely
 
 ### Communication 
 
@@ -23,7 +23,7 @@ Justine Jordan, VP Marketing from Litmus says something radical, which we might 
 > Meetings are an awful place for information sharing. When we did so, we spent the entire meeting talking at each other about tasks we completed rather than discussing tasks that could drive significant results for the company.
 Zapier 
 
-## General considerations
+### General considerations
 
 - Start of the day: saying hello on Slack. Standup with the usual content, but with more details for each point, as required. Details can be added as a thread, so that the summary is still easy to parse for those not interested in the finer details. Signal any potential need for help.
 - During work hours, it's business as usual: development, testing, support, etc as required by the business. Communication mostly done on Slack either in written or verbal form (Slack calls).
@@ -36,7 +36,7 @@ Zapier
 - Clocking off: be clear about when you are finishing work. No "Irish goodbye"
 
 
-## A question about engineering discussions
+### A question about engineering discussions
 
 Where should longer discussions live? Where should the outcomes, decisions be recorded?
 It is sometimes too distractive to discuss a specific problem in a team chat, so where should this be done?
@@ -65,7 +65,7 @@ Matt Mullenweg, Automattic
 > Tip: to suppress annoying GIFs from /giphy commands, untick the following checkbox in Slack: Preferences > Messages and Media > Show images and files from linked websites. 
 SamB, Ometria
 
-## Tree time
+### Tree time
 
 > “Tree time” is what we call our uninterrupted work time. I don’t remember where the name came from now, but I think it had something to do with a hypothetical scenario where one of us runs up a tree to get away from the other… Regardless, this is now our code word. If one of us asks the other for some “tree time”, it means “don’t get offended, but I’m finding it hard to concentrate and I really need some uninterrupted time to focus on what I’m doing.”
 Belle Beth Cooper, Exist co-founder
@@ -88,21 +88,21 @@ Read more at https://blog.trello.com/how-15-minutes-each-week-keeps-our-distribu
 
 good headsets: plantronics or similar (two-ear!) 
 
-## software
+### software
 
 video conf: Zoom
 
-## Learn from others 
+### Learn from others 
 
 > The biggest wins aren’t usually found in a post on the internet, but in what you discover on your own. 
 Wade Foster, Zapier
 
-## Stress and remote work 
+### Stress and remote work 
 
 > With better work-life balance we would expect employees to enjoy lower levels of work stress. Once again, the data agrees: Fewer teleworkers (26 percent) than traditional employees (32 percent) report unreasonable work stress. However, the headline figures do not quite tell the whole story. When we look at the breakdown, it is the full-time teleworkers (more than 70 percent of time spent teleworking) that are much less stressed (19 percent) than the part-time teleworkers (31 percent). In fact, part-time teleworkers are just as stressed as their office-bound co-workers.
 IBM Whitepaper about remote working
 
-## Additional resources: 
+### Additional resources: 
 
 Trello's Ultimate Guide to Remote Work: 
 https://info.trello.com/hubfs/Trello-Embrace-Remote-Work-Ultimate-Guide.pdf
