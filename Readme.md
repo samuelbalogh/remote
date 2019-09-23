@@ -91,7 +91,11 @@ good headsets: plantronics or similar (two-ear!)
 
 ### software
 
-video conf: Zoom
+#### Video conf
+
+My suggestions are:
+- Slack calls for ad-hoc, shorter calls between few people. Simple and quick to initiate a call.
+- Zoom for larger meetings, or even a longer . it's the only tool that I have used extensively for this purpose, so I might be biased. 
 
 ### Learn from others 
 
