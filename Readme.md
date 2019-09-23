@@ -33,7 +33,8 @@ Zapier
 - Increased communication regarding availability.
 	- For longer breaks, I suggest signaling them in the specific team channel. "Heading off for lunch, will be back in around 40 mins.". 
 	- For shorter breaks (cofee, bio, etc), I suggest just updating your profile status (Cmd + Shift + Y)
-- Clocking off: be clear about when you are finishing work. No "Irish goodbye"
+- Clocking off: be clear about when you are finishing work. No "Irish goodbye".
+- End of day update (optional): summarise what you worked on that day and what you have achieved, and what the challenges were. 
 
 
 ### A question about engineering discussions
