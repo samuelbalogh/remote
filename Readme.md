@@ -4,7 +4,7 @@
 
 ### Communication 
 
-- via calls (Slack, Zoom or other) or in written form (Slack or email) - this takes away non-verbal communication from the process, which is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances.
+- via calls (Slack, Zoom or other) or in written form (Slack or email) - this takes away non-verbal communication from the process, which is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. Over-communication might be necessary, especially in writing.
 - video calls make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
 
 > Due to a lack of verbal and emotional cues: One person may perceive a chat convo as an argument when the other person perceives it as a discussion.
@@ -95,7 +95,7 @@ good headsets: plantronics or similar (two-ear!)
 
 My suggestions are:
 - Slack calls for ad-hoc, shorter calls between few people. Simple and quick to initiate a call.
-- Zoom for larger meetings, or even a longer . it's the only tool that I have used extensively for this purpose, so I might be biased. 
+- Zoom for larger meetings, or even a longer . it's the only tool that I have used extensively for this purpose, so I'm biased, but I have found it very performant and easy-to-use.
 
 ### Learn from others 
 
