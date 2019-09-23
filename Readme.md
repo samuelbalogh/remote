@@ -1,6 +1,6 @@
-Remote work
+# Remote work
 
-Ideas & things to consider
+Ideas & things to consider when starting working remotely
 
 ### Communication 
 
