@@ -64,7 +64,8 @@ There is an interesting thing that both Trello and Zapier embrace, and that is a
 Zapier
 
 > As companies grow, you can’t guarantee everyone knows or talks to everyone else. Enter “Mr. Rogers,” a 15-minute weekly random grouping of team members who connect on a video chat to, well, just chat.
-- Trello
+- Trello . 
+
 Read more at https://blog.trello.com/how-15-minutes-each-week-keeps-our-distributed-team-connected?utm_source=ebook&utm_medium=internal&utm_campaign=remote-work-guide
 
 > Mr. Rogers has given me the humanity behind the computer screens. The work we all do together is great, but it's way too easy in any job, especially one working remote, to view people as input/output devices. Taking 30 minutes to hear about their lives makes them human again. There are huge sets of amazing people at Trello that I would never get a chance to know."
