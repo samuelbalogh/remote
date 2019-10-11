@@ -111,6 +111,7 @@ IBM Whitepaper about remote working
 Trello's Ultimate Guide to Remote Work:
 https://info.trello.com/hubfs/Trello-Embrace-Remote-Work-Ultimate-Guide.pdf
 
+TODO link to blog series about remote work at zapier. Instead of this huge ebook pdf
 Zapier's Ultimate Guide to Remote Work ebook: https://cdn.zapier.com/storage/learn_ebooks/e4fbeb81f76c0c13b589cd390cb6420b.pdf
 
 A blog series about practicalities of remote work:
