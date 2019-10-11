@@ -100,6 +100,7 @@ Wade Foster, Zapier
 
 ### Stress and remote work
 
+TODO expand upon this article:
 https://theconversation.com/how-remote-working-can-increase-stress-and-reduce-well-being-125021
 
 > With better work-life balance we would expect employees to enjoy lower levels of work stress. Once again, the data agrees: Fewer teleworkers (26 percent) than traditional employees (32 percent) report unreasonable work stress. However, the headline figures do not quite tell the whole story. When we look at the breakdown, it is the full-time teleworkers (more than 70 percent of time spent teleworking) that are much less stressed (19 percent) than the part-time teleworkers (31 percent). In fact, part-time teleworkers are just as stressed as their office-bound co-workers.
