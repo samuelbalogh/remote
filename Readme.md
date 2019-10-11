@@ -76,7 +76,14 @@ Read more at https://blog.trello.com/how-15-minutes-each-week-keeps-our-distribu
 
 ### hardware
 
-good headsets: plantronics or similar (two-ear!)
+https://www.wework.com/ideas/best-headphones-work
+
+> Best USB headset: Jabra UC Voice 550 Duo at $69
+> For use in customer call centers and for anyone who spends a large portion of the day on the telephone, this is the headset of choice. Calls are crisp and clear on both ends, plus Jabra’s Peakstop technology actively prevents any sudden, loud, or jarring background sounds from reaching your ear.
+
+> Best budget headset: Logitech ClearChat Comfort at $39.95
+> Logitech is a major player in the office headset market, and for almost half the price as the Jabra, the Logitech ClearChat Comfort offers great features for the price. It has padded ear pads, rotating microphones with noise-canceling technology, inline controls with mute and volume buttons, and is compatible with most operating systems.
+
 
 ### software
 
