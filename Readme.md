@@ -124,5 +124,8 @@ https://flaviocopes.com/remote-work-developer/
 GitLab:
 https://about.gitlab.com/company/culture/all-remote/
 
+TODO gather highlights from this article
+https://behavioralscientist.org/remedies-distracted-mind/
+
 IBM Whitepaper about remote work:
 https://www.ibm.com/downloads/cas/O90WYGXZ
