@@ -127,5 +127,8 @@ https://about.gitlab.com/company/culture/all-remote/
 TODO gather highlights from this article
 https://behavioralscientist.org/remedies-distracted-mind/
 
+TODO read this article
+https://doist.com/blog/asynchronous-communication/
+
 IBM Whitepaper about remote work:
 https://www.ibm.com/downloads/cas/O90WYGXZ
