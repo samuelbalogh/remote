@@ -6,11 +6,10 @@
 - video calls make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
 
 > Due to a lack of verbal and emotional cues: One person may perceive a chat convo as an argument when the other person perceives it as a discussion.
-> Resentment builds over time due to underlying issues not being addressed. Digital communication gone rogue can breed misunderstandings and hurt feelings.
-Remote Work Guide, Trello
+> Resentment builds over time due to underlying issues not being addressed. Digital communication gone rogue can breed misunderstandings and hurt feelings. (Remote Work Guide, Trello)
 
 > It is important to establish communication rules in a joint team-code-conduct manner that includes teams and their wishes directly in the creation.
-> When do we use chats? Why do we write emails? At what point do we pick up the phone? These answers should be a joint effort and one that is reflective of the team’s efforts versus that of one person.”
+> When do we use chats? Why do we write emails? At what point do we pick up the phone? These answers should be a joint effort and one that is reflective of the team’s efforts versus that of one person.”  
 Beat Buhlmann, General Manager EMEA, Evernote
 
 ### Meetings
