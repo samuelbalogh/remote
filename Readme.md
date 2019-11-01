@@ -53,17 +53,17 @@ Matt Mullenweg, Automattic
 
 ### Tree time
 
-> “Tree time” is what we call our uninterrupted work time. I don’t remember where the name came from now, but I think it had something to do with a hypothetical scenario where one of us runs up a tree to get away from the other… Regardless, this is now our code word. If one of us asks the other for some “tree time”, it means “don’t get offended, but I’m finding it hard to concentrate and I really need some uninterrupted time to focus on what I’m doing.”
+> “Tree time” is what we call our uninterrupted work time. I don’t remember where the name came from now, but I think it had something to do with a hypothetical scenario where one of us runs up a tree to get away from the other… Regardless, this is now our code word. If one of us asks the other for some “tree time”, it means “don’t get offended, but I’m finding it hard to concentrate and I really need some uninterrupted time to focus on what I’m doing.”  
 Belle Beth Cooper, Exist co-founder
 
 ### Pair buddies, aka. Mr Rogers
 
 There is an interesting thing that both Trello and Zapier embrace, and that is a random pairing of people for a short, informal chat:
 
-> As we’ve grown, it can be harder to know all your teammates. One easy way to mitigate that is to have folks on the team get paired up with one other teammate at random each week for a short 10-15 minute pair call. We use this to chat about life, work or whatever random thing seems interesting. Sometimes cool new product features come out of these, other times it’s just good fun.
+> As we’ve grown, it can be harder to know all your teammates. One easy way to mitigate that is to have folks on the team get paired up with one other teammate at random each week for a short 10-15 minute pair call. We use this to chat about life, work or whatever random thing seems interesting. Sometimes cool new product features come out of these, other times it’s just good fun.  
 Zapier
 
-> As companies grow, you can’t guarantee everyone knows or talks to everyone else. Enter “Mr. Rogers,” a 15-minute weekly random grouping of team members who connect on a video chat to, well, just chat.
+> As companies grow, you can’t guarantee everyone knows or talks to everyone else. Enter “Mr. Rogers,” a 15-minute weekly random grouping of team members who connect on a video chat to, well, just chat.  
 - Trello . 
 
 Read more at https://blog.trello.com/how-15-minutes-each-week-keeps-our-distributed-team-connected?utm_source=ebook&utm_medium=internal&utm_campaign=remote-work-guide
