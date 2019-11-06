@@ -134,3 +134,5 @@ https://doist.com/blog/asynchronous-communication/
 
 IBM Whitepaper about remote work:
 https://www.ibm.com/downloads/cas/O90WYGXZ
+
+https://www.atlassian.com/agile/teams/remote-teams
