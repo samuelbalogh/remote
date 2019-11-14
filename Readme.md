@@ -110,29 +110,28 @@ IBM Whitepaper about remote working
 
 ### Resources
 
-Trello's Ultimate Guide to Remote Work:
+- Trello's Ultimate Guide to Remote Work:
 https://info.trello.com/hubfs/Trello-Embrace-Remote-Work-Ultimate-Guide.pdf
 
-Zapier's Ultimate Guide to Remote Work:  https://zapier.com/learn/remote-work/
-
+- Zapier's Ultimate Guide to Remote Work:  https://zapier.com/learn/remote-work/
 Same thing a PDF: https://cdn.zapier.com/storage/learn_ebooks/e4fbeb81f76c0c13b589cd390cb6420b.pdf
 
-A blog series about practicalities of remote work:
+- A blog series about practicalities of remote work:
 https://www.christoolivier.com/practical-remote-working-part-1/
 
-Flavio’s blog entry:
+- Flavio’s blog post:
 https://flaviocopes.com/remote-work-developer/
 
-GitLab:
+- GitLab's culture:
 https://about.gitlab.com/company/culture/all-remote/
 
-TODO gather highlights from this article
+- TODO gather highlights from this article
 https://behavioralscientist.org/remedies-distracted-mind/
 
-TODO read this article
+- TODO read this article
 https://doist.com/blog/asynchronous-communication/
 
-IBM Whitepaper about remote work:
+- IBM Whitepaper about remote work:
 https://www.ibm.com/downloads/cas/O90WYGXZ
 
-https://www.atlassian.com/agile/teams/remote-teams
+- Remote work at Atlassian: https://www.atlassian.com/agile/teams/remote-teams
