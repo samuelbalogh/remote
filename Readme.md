@@ -135,3 +135,5 @@ https://doist.com/blog/asynchronous-communication/
 https://www.ibm.com/downloads/cas/O90WYGXZ
 
 - Remote work at Atlassian: https://www.atlassian.com/agile/teams/remote-teams
+
+- https://dev.to/coffeecraftcode/thriving-as-a-remote-developer-when-your-team-is-not-remote-first-485o?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=
