@@ -2,37 +2,53 @@
 
 ### Communication
 
-- via calls (Slack, Zoom or other) or in written form (Slack or email) - this takes away non-verbal communication from the process. The lack of non-verbal communication is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. Over-communication might be necessary, especially in writing.
-- video calls make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
+- calls take away non-verbal communication from the process. This is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. 
+- Over-communication might be necessary, especially in writing.
+- Video calls make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
 
 > Due to a lack of verbal and emotional cues: One person may perceive a chat convo as an argument when the other person perceives it as a discussion.
-> Resentment builds over time due to underlying issues not being addressed. Digital communication gone rogue can breed misunderstandings and hurt feelings.  
+
+
+> Resentment builds over time due to underlying issues not being addressed. Digital communication gone rogue can breed misunderstandings and hurt feelings.
+
+
 Remote Work Guide, Trello
 
-> It is important to establish communication rules in a joint team-code-conduct manner that includes teams and their wishes directly in the creation.
-> When do we use chats? Why do we write emails? At what point do we pick up the phone? These answers should be a joint effort and one that is reflective of the team’s efforts versus that of one person.”  
+> It is important to establish communication rules in a joint team-code-conduct manner that includes teams and their wishes directly in the creation. 
+> When do we use chats? Why do we write emails? At what point do we pick up the phone? These answers should be a joint effort and one that is reflective of the team’s efforts versus that of one person.”
+
+
 Beat Buhlmann, General Manager EMEA, Evernote
 
 ### Meetings
 
-Justine Jordan, VP Marketing from Litmus says something radical, which we might or might not follow:
+Something radical which we might or might not follow:
 > Unless every person is in the same room, all meetings are held over video conference. We’ve all been that one person dialing into a call only to hear a room full of noise, echo, and side conversations on the other end. It’s a terrible experience. So when one person is “remote” for a meeting, everyone is.
 
-> Meetings are an awful place for information sharing. When we did so, we spent the entire meeting talking at each other about tasks we completed rather than discussing tasks that could drive significant results for the company.  
-Zapier
+Justine Jordan, VP Marketing from Litmus 
+
+> Meetings are an awful place for information sharing. When we did so, we spent the entire meeting talking at each other about tasks we completed rather than discussing tasks that could drive significant results for the company.
+
+Zapier 
 
 ### General considerations
 
-- Start of the day: saying hello on Slack. Standup with the usual content, but with more details for each point, as required. Details can be added as a thread, so that the summary is still easy to parse for those not interested in the finer details. Signal any potential need for help.
-- During work hours, it's business as usual: development, testing, support, etc as required by the business. Communication mostly done on Slack either in written or verbal form (Slack calls).
-- During development, place a heavier emphasis on pull request descriptions: more background, more "why is this required", most context, the better.
-- Pair programming can be done without difficulties if we have an appropriate video-conferencing and screen sharing tool available. See the software section below for details.
-- During support, a heavier emphasis on communication of progress of tickets is required, either through Slack or on Jira.
-- Increased communication regarding availability.
-    - For longer breaks, I suggest signaling them in the specific team channel. "Heading off for lunch, will be back in around 40 mins.".
-    - For shorter breaks (coffee, bio, etc), I suggest just updating Slack profile status (Cmd + Shift + Y in Slack)
-- Clocking off: be clear about when you are finishing work. No "Irish goodbye".
-- End of day update (optional): summarise what you worked on that day and what you have achieved, and what the challenges were.
+- **Start of the day**: saying hello on Slack. Standup with the usual content, but with more details for each point, as required. Details can be added as a thread, so that the summary is still easy to parse for those not interested in the finer details. Signal any potential need for help.
+- **During work hours**, it's business as usual: development, testing, support, etc as required by the business. Communication mostly done on Slack either in written or verbal form (Slack calls).
+	- During development, a heavier emphasis on pull request descriptions: more background, more "why is this required", most context, the better.
+	- **Pair programming** can be done without difficulties if we have an appropriate videconferencing and screen sharing tool available. See the software section below for details. 
+	- During **support**, a heavier emphasis on communication of progress of tickets is required, either through Slack or on Jira. I suspect that Slack calls with screen sharing enabled will be popular when on support (eg., to show how a feature is supposed to work and what is happening instead).
+	- Increased communication regarding availability.
+		- For longer breaks, I suggest signaling them in the specific team channel. "Heading off for lunch, will be back in around 40 mins.". 
+		- For shorter breaks (cofee, bio, etc), I suggest just updating your profile status (Cmd + Shift + Y)
+- **Clocking off**: be clear about when you are finishing work. No "Irish goodbye".
+- **End of day update** (optional): summarise what you worked on that day and what you have achieved, and what the challenges were. 
+
+
+### A question about engineering discussions
+
+Where should longer discussions live? Where should the outcomes, decisions be recorded?
+It is sometimes too distractive to discuss a specific problem in a team chat, so where should this be done?
 
 ### Lightning talks, demos, get-together meetings inside the Prodeng team
 
