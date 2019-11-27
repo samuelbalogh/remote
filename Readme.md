@@ -14,6 +14,8 @@
 
 Remote Work Guide, Trello
 
+<br>
+
 > It is important to establish communication rules in a joint team-code-conduct manner that includes teams and their wishes directly in the creation. 
 > When do we use chats? Why do we write emails? At what point do we pick up the phone? These answers should be a joint effort and one that is reflective of the team’s efforts versus that of one person.”
 
@@ -27,6 +29,8 @@ Something radical which we might or might not follow:
 
 Justine Jordan, VP Marketing from Litmus 
 
+<br>
+
 > Meetings are an awful place for information sharing. When we did so, we spent the entire meeting talking at each other about tasks we completed rather than discussing tasks that could drive significant results for the company.
 
 Zapier 
@@ -36,7 +40,7 @@ Zapier
 - **Start of the day**: saying hello on Slack. Standup with the usual content, but with more details for each point, as required. Details can be added as a thread, so that the summary is still easy to parse for those not interested in the finer details. Signal any potential need for help.
 - **During work hours**, it's business as usual: development, testing, support, etc as required by the business. Communication mostly done on Slack either in written or verbal form (Slack calls).
 	- During development, a heavier emphasis on pull request descriptions: more background, more "why is this required", most context, the better.
-	- **Pair programming** can be done without difficulties if we have an appropriate videconferencing and screen sharing tool available. See the software section below for details. 
+	- **Pair programming** can be done without difficulties if we have an appropriate videconferencing and screen sharing tool available. Slack is perfect for this.
 	- During **support**, a heavier emphasis on communication of progress of tickets is required, either through Slack or on Jira. I suspect that Slack calls with screen sharing enabled will be popular when on support (eg., to show how a feature is supposed to work and what is happening instead).
 	- Increased communication regarding availability.
 		- For longer breaks, I suggest signaling them in the specific team channel. "Heading off for lunch, will be back in around 40 mins.". 
@@ -45,31 +49,38 @@ Zapier
 - **End of day update** (optional): summarise what you worked on that day and what you have achieved, and what the challenges were. 
 
 
-### A question about engineering discussions
+### The Engineering Guild
 
-Where should longer discussions live? Where should the outcomes, decisions be recorded?
-It is sometimes too distractive to discuss a specific problem in a team chat, so where should this be done?
+The Engineering Guild & the Architecture Guild are wonderful initiatives that facilitate remote work as well. The chance of someone being left out of a discussion becomes minimal as we have the dedicated channels (Slack channel & Google Docs) to discuss technical topics.
 
-### Lightning talks, demos, get-together meetings inside the Prodeng team
+### Lunch & learn 
 
-There could be a bi-weekly (or weekly, if popular) meeting where we show work that we have been working on. Initially this would be open to Prodeng team only, to avoid noise for others and to encourage active participation - if it is company-wide, one might be reluctant to show off a tiny little feature they have been working on, yet that would precisely be the goal.
-This would be an occasion to give other prodeng sub-teams insights about what we have been working on.
-Also, this would reenforce trust - see next point.
+aka. *afternoon tea & learn* or *lightning talks* 
+
+I think we are already doing this well and we should keep doing it :)
+
+A fantastic opportunity to show off what you & your team have been working on. Can be just a 2-minute status update or a 10-minute talk about a tech/product topic. 
 
 ### Trust
 
 > Because there is an implicit trust in your teammates and because there is no other way to measure results in a remote team, the team inherently evaluates each other on what was completed that week. We do this by sharing weekly updates on our internal blog (P2) every Friday—
 I bet you can imagine how it would feel to be the only one with nothing to show. That feeling creates a desire to finish something important each week.  
+
 Wade Foster, Zapier
 
-> “If someone shows up in the morning dressed appropriately and isn’t drunk or asleep at his desk, we assume he’s working. If he’s making spreadsheets and to-do lists, we assume he’s working really hard. Unfortunately, none of this gets at what an employee actually creates during the day,”  
-Matt Mullenweg, Automattic
+<br>
 
-“At Automattic we focus on what you create, not whether you live up to some ideal of the ‘good employee,’” explains Mullenweg. For developers, that might mean looking at how many commits they’ve had over a given time period. For the support staff, that could be total number of tickets answered. The underlying message is to find a metric outside of hours spent to evaluate productivity".
+> If someone shows up in the morning dressed appropriately and isn’t drunk or asleep at his desk, we assume he’s working. If he’s making spreadsheets and to-do lists, we assume he’s working really hard. Unfortunately, none of this gets at what an employee actually creates during the day.
+
+> At Automattic we focus on what you create, not whether you live up to some ideal of the ‘good employee,’” explains Mullenweg. For developers, that might mean looking at how many commits they’ve had over a given time period. For the support staff, that could be total number of tickets answered. The underlying message is to find a metric outside of hours spent to evaluate productivity.
+
+
+Matt Mullenweg, Automattic
 
 ### Tree time
 
 > “Tree time” is what we call our uninterrupted work time. I don’t remember where the name came from now, but I think it had something to do with a hypothetical scenario where one of us runs up a tree to get away from the other… Regardless, this is now our code word. If one of us asks the other for some “tree time”, it means “don’t get offended, but I’m finding it hard to concentrate and I really need some uninterrupted time to focus on what I’m doing.”  
+
 Belle Beth Cooper, Exist co-founder
 
 ### Pair buddies, aka. Mr Rogers
@@ -79,15 +90,25 @@ There is an interesting thing that both Trello and Zapier embrace, and that is a
 > As we’ve grown, it can be harder to know all your teammates. One easy way to mitigate that is to have folks on the team get paired up with one other teammate at random each week for a short 10-15 minute pair call. We use this to chat about life, work or whatever random thing seems interesting. Sometimes cool new product features come out of these, other times it’s just good fun.  
 Zapier
 
+<br>
+
 > As companies grow, you can’t guarantee everyone knows or talks to everyone else. Enter “Mr. Rogers,” a 15-minute weekly random grouping of team members who connect on a video chat to, well, just chat.  
+
 - Trello . 
 
 Read more at https://blog.trello.com/how-15-minutes-each-week-keeps-our-distributed-team-connected?utm_source=ebook&utm_medium=internal&utm_campaign=remote-work-guide
 
+<br>
+
 > Mr. Rogers has given me the humanity behind the computer screens. The work we all do together is great, but it's way too easy in any job, especially one working remote, to view people as input/output devices. Taking 30 minutes to hear about their lives makes them human again. There are huge sets of amazing people at Trello that I would never get a chance to know."
-- Ryan Sorensen, Server Developer, working remotely from Los Angeles, California
+
+Ryan Sorensen, Server Developer, working remotely from Los Angeles, California
+
+<br>
 
 > We try to make sure that we're intentional about informal communication, want to make sure that we stimulate informal communication because that tends to get lost if you're remote.   
+
+
 Sid Sijbrandij, GitLab
 
 This can be easily put into practice with the Donut app for Slack: https://ometria.slack.com/apps/A11MJ51SR-donut
@@ -109,7 +130,7 @@ https://www.wework.com/ideas/best-headphones-work
 
 My suggestions are:
 - Slack calls for ad-hoc, shorter calls between few people. Simple and quick to initiate a call.
-- Zoom for larger meetings, or even a longer pairing session. it's the only tool that I have used extensively for this purpose, so I'm biased, but I have found it very performant and easy-to-use. 
+- Zoom for larger meetings. it's the only tool that I have used extensively for this purpose, so I'm biased, but I have found it very performant and easy-to-use. 
 
 ### Learn from others, but experiment as well
 
