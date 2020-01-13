@@ -2,9 +2,9 @@
 
 ### Communication
 
-- calls take away non-verbal communication from the process. This is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. 
-- Over-communication might be necessary, especially in writing.
-- Video calls make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
+- **Calls** take away non-verbal communication from the process. This is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. 
+- **Over-communication** might be necessary, especially in writing.
+- **Video calls** make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
 
 > Due to a lack of verbal and emotional cues: One person may perceive a chat convo as an argument when the other person perceives it as a discussion.
 
