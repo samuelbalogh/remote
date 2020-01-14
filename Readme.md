@@ -1,10 +1,11 @@
-## Things to consider when starting working remotely
+## Remote work pointers
 
 ### Communication
 
 - **Calls** take away non-verbal communication from the process. This is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. 
-- **Over-communication** might be necessary, especially in writing.
 - **Video calls** make room for some non-verbal communication, but it is not equivalent to physically being in the same room.
+- **Slack** is a great tool, but it can become your enemy by inducing an anticipiation for distractions.
+- **Over-communication** might be necessary, especially in writing.
 
 > Due to a lack of verbal and emotional cues: One person may perceive a chat convo as an argument when the other person perceives it as a discussion.
 
@@ -83,6 +84,8 @@ Matt Mullenweg, Automattic
 
 Belle Beth Cooper, Exist co-founder
 
+I suggest going offline for at least an hour every day. It works like magic. 
+
 ### Pair buddies, aka. Mr Rogers
 
 There is an interesting thing that both Trello and Zapier embrace, and that is a random pairing of people for a short, informal chat:
@@ -116,6 +119,8 @@ This can be easily put into practice with the Donut app for Slack: https://ometr
 ### hardware
 
 https://www.wework.com/ideas/best-headphones-work
+
+I inherited a [Plantronics Voyager](https://www.amazon.co.uk/Plantronics-Voyager-Stereo-Bluetooth-Headset-Noir/dp/B013F4LJTI) from Matt D, and I really like the quality and comfort of it - I highly recommend it.
 
 > Best USB headset: Jabra UC Voice 550 Duo at $69
 > For use in customer call centers and for anyone who spends a large portion of the day on the telephone, this is the headset of choice. Calls are crisp and clear on both ends, plus Jabra’s Peakstop technology actively prevents any sudden, loud, or jarring background sounds from reaching your ear.
