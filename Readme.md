@@ -162,6 +162,10 @@ https://flaviocopes.com/remote-work-developer/
 - GitLab's culture:
 https://about.gitlab.com/company/culture/all-remote/
 
+- [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
+
+- [An article about Slack on Wired](https://www.wired.co.uk/article/slack-ruining-work)
+
 - TODO gather highlights from this article
 https://behavioralscientist.org/remedies-distracted-mind/
 
