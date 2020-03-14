@@ -1,5 +1,7 @@
 ## Remote work pointers
 
+[Working from home should not involve doing the dishes](https://eszter.space/wfh/)
+
 ### Communication
 
 - **Calls** take away non-verbal communication from the process. This is an obstacle that must be overcome: getting the wording right becomes more important, because we can't rely on body language, intonation and other nuances. 
